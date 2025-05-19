@@ -44,7 +44,7 @@ def send_email(subject, body, to_email):
 
 
 
-receiver_email = "chiragjaink07@gmail.com"
+receiver_email = "arnesha3009@gmail.com"
 mail_content = "Person is Detected!"
 mail_heading = "!!!ALERT!!!"
 
